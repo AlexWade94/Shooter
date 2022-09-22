@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Shooter-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\ShooterEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h.obj"
+"C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\DebugGame\Shooter\Module.Shooter.cpp.obj"
+"C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\DebugGame\Shooter\Module.Shooter.gen.cpp.obj"
+"C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\DebugGame\Shooter\Default.rc2.res"
+/OUT:"C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\DebugGame\Shooter\UE4Editor-Shooter-Win64-DebugGame.lib"

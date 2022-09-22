@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Shooter.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\dev\Shooter\Intermediate\Build\Win64\ShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\dev\Shooter\Intermediate\Build\Win64\UE4Editor\Development\Shooter\Module.Shooter.cpp.obj"
+"C:\dev\Shooter\Intermediate\Build\Win64\UE4Editor\Development\Shooter\Module.Shooter.gen.cpp.obj"
+"C:\dev\Shooter\Intermediate\Build\Win64\UE4Editor\Development\Shooter\Default.rc2.res"
+/OUT:"C:\dev\Shooter\Intermediate\Build\Win64\UE4Editor\Development\Shooter\UE4Editor-Shooter.lib"

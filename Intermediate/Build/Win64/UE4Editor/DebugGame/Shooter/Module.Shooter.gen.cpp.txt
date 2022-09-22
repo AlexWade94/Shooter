@@ -1,0 +1,376 @@
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\DebugGame\Shooter\Definitions.Shooter.h
+C:/Users/Wade/Documents/Unreal Projects/Shooter/Intermediate/Build/Win64/UE4Editor/Inc/Shooter/EnvQueryTest_PickupCouldBeTaken.gen.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Source\Shooter/Public/AI/EQS/EnvQueryTest_PickupCouldBeTaken.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\EnvironmentQuery/EnvQueryTest.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\EnvironmentQuery/Items/EnvQueryItemType.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\EnvQueryItemType.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\EnvironmentQuery/EnvQueryContext.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\EnvQueryContext.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\EnvironmentQuery/EnvQueryTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\NavigationSystem\Public\NavFilters/NavigationQueryFilter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\NavigationSystem\Public\NavAreas/NavArea.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavAreaBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavAreaBase.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\NavigationSystem\NavArea.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\NavigationSystem\NavigationQueryFilter.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\BehaviorTree/BehaviorTreeTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\BehaviorTreeTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\EnvQueryTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\DataProviders/AIDataProvider.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\AIDataProvider.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\EnvironmentQuery/EnvQueryNode.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\EnvQueryNode.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\EnvQueryTest.generated.h
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Shooter\EnvQueryTest_PickupCouldBeTaken.generated.h
+C:/Users/Wade/Documents/Unreal Projects/Shooter/Intermediate/Build/Win64/UE4Editor/Inc/Shooter/Shooter.init.gen.cpp
+C:/Users/Wade/Documents/Unreal Projects/Shooter/Intermediate/Build/Win64/UE4Editor/Inc/Shooter/STUAICharacter.gen.cpp
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Source\Shooter/Public/AI/STUAICharacter.h
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Source\Shooter\Public\Player/STUBaseCharacter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Shooter\STUBaseCharacter.generated.h
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Shooter\STUAICharacter.generated.h
+C:/Users/Wade/Documents/Unreal Projects/Shooter/Intermediate/Build/Win64/UE4Editor/Inc/Shooter/STUAIController.gen.cpp
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Source\Shooter/Public/AI/STUAIController.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\AIController.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\AITypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\NavigationSystem\Public\NavigationSystemTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\AI/NavigationSystemConfig.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavigationSystemConfig.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\AITypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\GameplayTasks\Classes\GameplayTaskOwnerInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\GameplayTasks\Public\GameplayTaskTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTasks\GameplayTaskOwnerInterface.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\GameplayTasks\Classes\GameplayTask.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/WeakInterfacePtr.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTasks\GameplayTask.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\Navigation/PathFollowingComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\NavigationSystem\Public\NavigationData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavigationDataInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavigationDataInterface.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\NavigationSystem\NavigationData.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\AIResourceInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\AIResourceInterface.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/NavMovementComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\AI/Navigation/PathFollowingAgentInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PathFollowingAgentInterface.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavMovementComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\PathFollowingComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\Perception/AIPerceptionListenerInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\AIPerceptionListenerInterface.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\GenericTeamAgentInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\GenericTeamAgentInterface.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\VisualLogger/VisualLoggerDebugSnapshotInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\VisualLoggerDebugSnapshotInterface.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\AIController.generated.h
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Shooter\STUAIController.generated.h
+C:/Users/Wade/Documents/Unreal Projects/Shooter/Intermediate/Build/Win64/UE4Editor/Inc/Shooter/STUAIPerceptionComponent.gen.cpp
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Source\Shooter/Public/Components/STUAIPerceptionComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\Perception/AIPerceptionComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\Perception/AIPerceptionTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\AIPerceptionTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\Perception/AISense.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\AISense.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\Perception/AIPerceptionSystem.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\AISubsystem.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\AISystem.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\AI/AISystemBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AISystemBase.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\AISystem.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\AISubsystem.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\AIPerceptionSystem.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\AIPerceptionComponent.generated.h
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Shooter\STUAIPerceptionComponent.generated.h
+C:/Users/Wade/Documents/Unreal Projects/Shooter/Intermediate/Build/Win64/UE4Editor/Inc/Shooter/STUAIWeaponComponent.gen.cpp
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Source\Shooter/Public/AI/STUAIWeaponComponent.h
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Source\Shooter\Public\STUWeaponComponent.h
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Source\Shooter\Public\STUCoreTypes.h
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Shooter\STUCoreTypes.generated.h
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Shooter\STUWeaponComponent.generated.h
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Shooter\STUAIWeaponComponent.generated.h
+C:/Users/Wade/Documents/Unreal Projects/Shooter/Intermediate/Build/Win64/UE4Editor/Inc/Shooter/STUAmmoPickup.gen.cpp
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Source\Shooter/Public/Pickups/STUAmmoPickup.h
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Source\Shooter\Public\Pickups/STUBasePickup.h
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Shooter\STUBasePickup.generated.h
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Shooter\STUAmmoPickup.generated.h
+C:/Users/Wade/Documents/Unreal Projects/Shooter/Intermediate/Build/Win64/UE4Editor/Inc/Shooter/STUAnimNotify.gen.cpp
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Source\Shooter/Public/Animations/STUAnimNotify.h
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Shooter\STUAnimNotify.generated.h
+C:/Users/Wade/Documents/Unreal Projects/Shooter/Intermediate/Build/Win64/UE4Editor/Inc/Shooter/STUBaseCharacter.gen.cpp
+C:/Users/Wade/Documents/Unreal Projects/Shooter/Intermediate/Build/Win64/UE4Editor/Inc/Shooter/STUBasePickup.gen.cpp
+C:/Users/Wade/Documents/Unreal Projects/Shooter/Intermediate/Build/Win64/UE4Editor/Inc/Shooter/STUBaseWeapon.gen.cpp
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Source\Shooter/Public/STUBaseWeapon.h
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Shooter\STUBaseWeapon.generated.h
+C:/Users/Wade/Documents/Unreal Projects/Shooter/Intermediate/Build/Win64/UE4Editor/Inc/Shooter/STUBaseWidget.gen.cpp
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Source\Shooter/Public/UI/STUBaseWidget.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Components/SlateWrapperTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\SlateWrapperTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Components/Widget.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Components/Visual.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\Visual.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Slate/WidgetTransform.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetTransform.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Blueprint/WidgetNavigation.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Types/NavigationMetaData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetNavigation.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\Widget.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Components/NamedSlotInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\NamedSlotInterface.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Layout/Anchors.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Slate\Anchors.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Animation/WidgetAnimation.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneSequence.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneSignedObject.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSignedObject.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneTrack.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Compilation/MovieSceneSegmentCompiler.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/InlineValue.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSegment.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/SequencerObjectVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneFrameMigration.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneFwd.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneSequenceID.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequenceID.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneFrameMigration.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSegment.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationField.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationKey.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneTrackIdentifier.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/EditorObjectVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTrackIdentifier.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationKey.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationTree.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntityIDs.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntitySystemTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationField.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneSection.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\KeyParams.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieScene.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneSpawnable.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSpawnable.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneBinding.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneBinding.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieScenePossessable.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieScenePossessable.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneObjectBindingID.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneObjectBindingID.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneTimeController.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieScene.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/MovieSceneBlendType.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneBlendType.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneCompletionMode.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneCompletionMode.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Generators/MovieSceneEasingFunction.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEasingFunction.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationCustomVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntityBuilder.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntityManager.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/StrongObjectPtr.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieScenePlayback.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSequenceTransform.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Algo/AllOf.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation\MovieSceneTimeTransform.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTimeTransform.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Evaluation\MovieSceneTimeWarping.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTimeWarping.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequenceTransform.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntityFactoryTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneComponentTypeHandler.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneComponentTypeInfo.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneComponentDebug.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Algo/AnyOf.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Algo/NoneOf.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Algo/Common.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneComponentRegistry.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntityFactory.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntitySystemDirectedGraph.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/GeneratedTypeName.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSection.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MovieScene\Public\MovieSceneTrackEvaluationField.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTrackEvaluationField.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTrack.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequence.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Animation/WidgetAnimationBinding.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetAnimationBinding.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetAnimation.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Blueprint/WidgetBlueprintGeneratedClass.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\UMG\Public\Binding/DynamicPropertyPath.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\PropertyPath\Public\PropertyPathHelpers.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\PropertyPath\Public\PropertyTypeCompatibility.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\PropertyPath\PropertyPathHelpers.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\DynamicPropertyPath.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetBlueprintGeneratedClass.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\UserWidget.generated.h
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Shooter\STUBaseWidget.generated.h
+C:/Users/Wade/Documents/Unreal Projects/Shooter/Intermediate/Build/Win64/UE4Editor/Inc/Shooter/STUChangeWeaponService.gen.cpp
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Source\Shooter/Public/AI/Service/STUChangeWeaponService.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\BehaviorTree/BTService.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\BehaviorTree/BTAuxiliaryNode.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\BehaviorTree/BTNode.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\BehaviorTree/BehaviorTreeComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\GameplayTags\Classes\GameplayTagContainer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTags\GameplayTagContainer.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\BrainComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\BrainComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\BehaviorTreeComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\BehaviorTree/BlackboardAssetProvider.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\BlackboardAssetProvider.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\Tasks/AITask.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\AITask.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\BTNode.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\BTAuxiliaryNode.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\BTService.generated.h
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Shooter\STUChangeWeaponService.generated.h
+C:/Users/Wade/Documents/Unreal Projects/Shooter/Intermediate/Build/Win64/UE4Editor/Inc/Shooter/STUCharacterMovementComponent.gen.cpp
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Source\Shooter/Public/STUCharacterMovementComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavigationAvoidanceTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavigationAvoidanceTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\AI/RVOAvoidanceInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RVOAvoidanceInterface.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/PawnMovementComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PawnMovementComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Interfaces/NetworkPredictionInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NetworkPredictionInterface.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementComponent.generated.h
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Shooter\STUCharacterMovementComponent.generated.h
+C:/Users/Wade/Documents/Unreal Projects/Shooter/Intermediate/Build/Win64/UE4Editor/Inc/Shooter/STUCoreTypes.gen.cpp
+C:/Users/Wade/Documents/Unreal Projects/Shooter/Intermediate/Build/Win64/UE4Editor/Inc/Shooter/STUDevDamageActor.gen.cpp
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Source\Shooter/Public/Dev/STUDevDamageActor.h
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Shooter\STUDevDamageActor.generated.h
+C:/Users/Wade/Documents/Unreal Projects/Shooter/Intermediate/Build/Win64/UE4Editor/Inc/Shooter/STUEnemyEnvQueryContext.gen.cpp
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Source\Shooter/Public/AI/EQS/STUEnemyEnvQueryContext.h
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Shooter\STUEnemyEnvQueryContext.generated.h
+C:/Users/Wade/Documents/Unreal Projects/Shooter/Intermediate/Build/Win64/UE4Editor/Inc/Shooter/STUEquipFinishedAnimNotify.gen.cpp
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Source\Shooter/Public/Animations/STUEquipFinishedAnimNotify.h
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Shooter\STUEquipFinishedAnimNotify.generated.h
+C:/Users/Wade/Documents/Unreal Projects/Shooter/Intermediate/Build/Win64/UE4Editor/Inc/Shooter/STUFindEnemyService.gen.cpp
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Source\Shooter/Public/AI/Service/STUFindEnemyService.h
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Shooter\STUFindEnemyService.generated.h
+C:/Users/Wade/Documents/Unreal Projects/Shooter/Intermediate/Build/Win64/UE4Editor/Inc/Shooter/STUFireDamageType.gen.cpp
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Source\Shooter/Public/Dev/STUFireDamageType.h
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Shooter\STUFireDamageType.generated.h
+C:/Users/Wade/Documents/Unreal Projects/Shooter/Intermediate/Build/Win64/UE4Editor/Inc/Shooter/STUFireService.gen.cpp
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Source\Shooter/Public/AI/Service/STUFireService.h
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Shooter\STUFireService.generated.h
+C:/Users/Wade/Documents/Unreal Projects/Shooter/Intermediate/Build/Win64/UE4Editor/Inc/Shooter/STUGameDataWidget.gen.cpp
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Source\Shooter/Public/UI/STUGameDataWidget.h
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Shooter\STUGameDataWidget.generated.h
+C:/Users/Wade/Documents/Unreal Projects/Shooter/Intermediate/Build/Win64/UE4Editor/Inc/Shooter/STUGameHUD.gen.cpp
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Source\Shooter/Public/UI/STUGameHUD.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Shooter\STUGameHUD.generated.h
+C:/Users/Wade/Documents/Unreal Projects/Shooter/Intermediate/Build/Win64/UE4Editor/Inc/Shooter/STUGameInstance.gen.cpp
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Source\Shooter/Public/STUGameInstance.h
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Shooter\STUGameInstance.generated.h
+C:/Users/Wade/Documents/Unreal Projects/Shooter/Intermediate/Build/Win64/UE4Editor/Inc/Shooter/STUGameModeBase.gen.cpp
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Source\Shooter/STUGameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Shooter\STUGameModeBase.generated.h
+C:/Users/Wade/Documents/Unreal Projects/Shooter/Intermediate/Build/Win64/UE4Editor/Inc/Shooter/STUGameOverWidget.gen.cpp
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Source\Shooter/Public/UI/STUGameOverWidget.h
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Shooter\STUGameOverWidget.generated.h
+C:/Users/Wade/Documents/Unreal Projects/Shooter/Intermediate/Build/Win64/UE4Editor/Inc/Shooter/STUGoToWidget.gen.cpp
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Source\Shooter/Public/UI/STUGoToWidget.h
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Shooter\STUGoToWidget.generated.h
+C:/Users/Wade/Documents/Unreal Projects/Shooter/Intermediate/Build/Win64/UE4Editor/Inc/Shooter/STUHealthBarWidget.gen.cpp
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Source\Shooter/Public/UI/STUHealthBarWidget.h
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Shooter\STUHealthBarWidget.generated.h
+C:/Users/Wade/Documents/Unreal Projects/Shooter/Intermediate/Build/Win64/UE4Editor/Inc/Shooter/STUHealthComponent.gen.cpp
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Source\Shooter/Public/STUHealthComponent.h
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Shooter\STUHealthComponent.generated.h
+C:/Users/Wade/Documents/Unreal Projects/Shooter/Intermediate/Build/Win64/UE4Editor/Inc/Shooter/STUHealthPercentDecorator.gen.cpp
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Source\Shooter/Public/AI/Decorators/STUHealthPercentDecorator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\BehaviorTree/BTDecorator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\BTDecorator.generated.h
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Shooter\STUHealthPercentDecorator.generated.h
+C:/Users/Wade/Documents/Unreal Projects/Shooter/Intermediate/Build/Win64/UE4Editor/Inc/Shooter/STUHealthPickup.gen.cpp
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Source\Shooter/Public/Pickups/STUHealthPickup.h
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Shooter\STUHealthPickup.generated.h
+C:/Users/Wade/Documents/Unreal Projects/Shooter/Intermediate/Build/Win64/UE4Editor/Inc/Shooter/STUIceDamageType.gen.cpp
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Source\Shooter/Public/Dev/STUIceDamageType.h
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Shooter\STUIceDamageType.generated.h
+C:/Users/Wade/Documents/Unreal Projects/Shooter/Intermediate/Build/Win64/UE4Editor/Inc/Shooter/STULauncherWeapon.gen.cpp
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Source\Shooter/Public/STULauncherWeapon.h
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Shooter\STULauncherWeapon.generated.h
+C:/Users/Wade/Documents/Unreal Projects/Shooter/Intermediate/Build/Win64/UE4Editor/Inc/Shooter/STULevelItemWidget.gen.cpp
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Source\Shooter/Public/Menu/UI/STULevelItemWidget.h
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Shooter\STULevelItemWidget.generated.h
+C:/Users/Wade/Documents/Unreal Projects/Shooter/Intermediate/Build/Win64/UE4Editor/Inc/Shooter/STUMenuGameModeBase.gen.cpp
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Source\Shooter/Public/Menu/STUMenuGameModeBase.h
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Shooter\STUMenuGameModeBase.generated.h
+C:/Users/Wade/Documents/Unreal Projects/Shooter/Intermediate/Build/Win64/UE4Editor/Inc/Shooter/STUMenuHUD.gen.cpp
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Source\Shooter/Public/Menu/UI/STUMenuHUD.h
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Shooter\STUMenuHUD.generated.h
+C:/Users/Wade/Documents/Unreal Projects/Shooter/Intermediate/Build/Win64/UE4Editor/Inc/Shooter/STUMenuPlayerController.gen.cpp
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Source\Shooter/Public/Menu/STUMenuPlayerController.h
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Shooter\STUMenuPlayerController.generated.h
+C:/Users/Wade/Documents/Unreal Projects/Shooter/Intermediate/Build/Win64/UE4Editor/Inc/Shooter/STUMenuWidget.gen.cpp
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Source\Shooter/Public/Menu/UI/STUMenuWidget.h
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Shooter\STUMenuWidget.generated.h
+C:/Users/Wade/Documents/Unreal Projects/Shooter/Intermediate/Build/Win64/UE4Editor/Inc/Shooter/STUNeedAmmoDecorator.gen.cpp
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Source\Shooter/Public/AI/Decorators/STUNeedAmmoDecorator.h
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Shooter\STUNeedAmmoDecorator.generated.h
+C:/Users/Wade/Documents/Unreal Projects/Shooter/Intermediate/Build/Win64/UE4Editor/Inc/Shooter/STUNextLocationTask.gen.cpp
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Source\Shooter/Public/AI/Task/STUNextLocationTask.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AIModule\Classes\BehaviorTree/BTTaskNode.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\BTTaskNode.generated.h
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Shooter\STUNextLocationTask.generated.h
+C:/Users/Wade/Documents/Unreal Projects/Shooter/Intermediate/Build/Win64/UE4Editor/Inc/Shooter/STUPauseWidget.gen.cpp
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Source\Shooter/Public/UI/STUPauseWidget.h
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Shooter\STUPauseWidget.generated.h
+C:/Users/Wade/Documents/Unreal Projects/Shooter/Intermediate/Build/Win64/UE4Editor/Inc/Shooter/STUPlayerCharacter.gen.cpp
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Source\Shooter/Public/Player/STUPlayerCharacter.h
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Shooter\STUPlayerCharacter.generated.h
+C:/Users/Wade/Documents/Unreal Projects/Shooter/Intermediate/Build/Win64/UE4Editor/Inc/Shooter/STUPlayerController.gen.cpp
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Source\Shooter/Public/Player/STUPlayerController.h
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Shooter\STUPlayerController.generated.h
+C:/Users/Wade/Documents/Unreal Projects/Shooter/Intermediate/Build/Win64/UE4Editor/Inc/Shooter/STUPlayerState.gen.cpp
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Source\Shooter/Public/Player/STUPlayerState.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerState.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerState.generated.h
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Shooter\STUPlayerState.generated.h
+C:/Users/Wade/Documents/Unreal Projects/Shooter/Intermediate/Build/Win64/UE4Editor/Inc/Shooter/STUPlayerStatRowWidget.gen.cpp
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Source\Shooter/Public/UI/STUPlayerStatRowWidget.h
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Shooter\STUPlayerStatRowWidget.generated.h
+C:/Users/Wade/Documents/Unreal Projects/Shooter/Intermediate/Build/Win64/UE4Editor/Inc/Shooter/STUPlayerWidget.gen.cpp
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Source\Shooter/Public/UI/STUPlayerWidget.h
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Shooter\STUPlayerWidget.generated.h
+C:/Users/Wade/Documents/Unreal Projects/Shooter/Intermediate/Build/Win64/UE4Editor/Inc/Shooter/STUProjectile.gen.cpp
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Source\Shooter/Public/STUProjectile.h
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Shooter\STUProjectile.generated.h
+C:/Users/Wade/Documents/Unreal Projects/Shooter/Intermediate/Build/Win64/UE4Editor/Inc/Shooter/STUReloadFinishedAnimNotify.gen.cpp
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Source\Shooter/Public/Animations/STUReloadFinishedAnimNotify.h
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Shooter\STUReloadFinishedAnimNotify.generated.h
+C:/Users/Wade/Documents/Unreal Projects/Shooter/Intermediate/Build/Win64/UE4Editor/Inc/Shooter/STURespawnComponent.gen.cpp
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Source\Shooter/Public/Components/STURespawnComponent.h
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Shooter\STURespawnComponent.generated.h
+C:/Users/Wade/Documents/Unreal Projects/Shooter/Intermediate/Build/Win64/UE4Editor/Inc/Shooter/STURiffleWeapon.gen.cpp
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Source\Shooter/Public/STURiffleWeapon.h
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Shooter\STURiffleWeapon.generated.h
+C:/Users/Wade/Documents/Unreal Projects/Shooter/Intermediate/Build/Win64/UE4Editor/Inc/Shooter/STUSoundFuncLib.gen.cpp
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Source\Shooter/Public/Sound/STUSoundFuncLib.h
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Shooter\STUSoundFuncLib.generated.h
+C:/Users/Wade/Documents/Unreal Projects/Shooter/Intermediate/Build/Win64/UE4Editor/Inc/Shooter/STUSpectatorWidget.gen.cpp
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Source\Shooter/Public/UI/STUSpectatorWidget.h
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Shooter\STUSpectatorWidget.generated.h
+C:/Users/Wade/Documents/Unreal Projects/Shooter/Intermediate/Build/Win64/UE4Editor/Inc/Shooter/STUWeaponComponent.gen.cpp
+C:/Users/Wade/Documents/Unreal Projects/Shooter/Intermediate/Build/Win64/UE4Editor/Inc/Shooter/STUWeaponFXComponent.gen.cpp
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Source\Shooter/Public/Components/STUWeaponFXComponent.h
+C:\Users\Wade\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Shooter\STUWeaponFXComponent.generated.h

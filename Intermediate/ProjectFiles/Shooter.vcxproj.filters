@@ -1,0 +1,456 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Shooter.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{7E0029C5-8000-4B87-B9C4-74AEBD009A40}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Shooter.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ShooterEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.clang-format" />
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{70BA0A3F-1230-4D56-815E-9F82580989AD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Shooter">
+      <UniqueIdentifier>{14AA08DC-1FD1-47B6-93CC-4957FAC11775}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Shooter\Shooter.Build.cs">
+      <Filter>Source\Shooter</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Shooter\Shooter.cpp">
+      <Filter>Source\Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Shooter\Shooter.h">
+      <Filter>Source\Shooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Shooter\STUGameModeBase.cpp">
+      <Filter>Source\Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Shooter\STUGameModeBase.h">
+      <Filter>Source\Shooter</Filter>
+    </ClInclude>
+    <Filter Include="Source\Shooter\Private">
+      <UniqueIdentifier>{AD0E5705-C645-4ED0-BD0A-D18AEEC781DB}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Shooter\Private\STUBaseWeapon.cpp">
+      <Filter>Source\Shooter\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Shooter\Private\STUCharacterMovementComponent.cpp">
+      <Filter>Source\Shooter\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Shooter\Private\STUGameInstance.cpp">
+      <Filter>Source\Shooter\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Shooter\Private\STUHealthComponent.cpp">
+      <Filter>Source\Shooter\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Shooter\Private\STULauncherWeapon.cpp">
+      <Filter>Source\Shooter\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Shooter\Private\STUProjectile.cpp">
+      <Filter>Source\Shooter\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Shooter\Private\STURiffleWeapon.cpp">
+      <Filter>Source\Shooter\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Shooter\Private\STUWeaponComponent.cpp">
+      <Filter>Source\Shooter\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Shooter\Private\AI">
+      <UniqueIdentifier>{185AA4FF-69BD-4652-9DFD-4D8822697412}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Shooter\Private\AI\STUAICharacter.cpp">
+      <Filter>Source\Shooter\Private\AI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Shooter\Private\AI\STUAIController.cpp">
+      <Filter>Source\Shooter\Private\AI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Shooter\Private\AI\STUAIWeaponComponent.cpp">
+      <Filter>Source\Shooter\Private\AI</Filter>
+    </ClCompile>
+    <Filter Include="Source\Shooter\Private\AI\Decorators">
+      <UniqueIdentifier>{8098CE9A-F084-4389-AC0A-19FDA8ED2703}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Shooter\Private\AI\Decorators\STUHealthPercentDecorator.cpp">
+      <Filter>Source\Shooter\Private\AI\Decorators</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Shooter\Private\AI\Decorators\STUNeedAmmoDecorator.cpp">
+      <Filter>Source\Shooter\Private\AI\Decorators</Filter>
+    </ClCompile>
+    <Filter Include="Source\Shooter\Private\AI\EQS">
+      <UniqueIdentifier>{93D1E740-ADB3-48D3-ABEB-156B1ABCCD76}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Shooter\Private\AI\EQS\EnvQueryTest_PickupCouldBeTaken.cpp">
+      <Filter>Source\Shooter\Private\AI\EQS</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Shooter\Private\AI\EQS\STUEnemyEnvQueryContext.cpp">
+      <Filter>Source\Shooter\Private\AI\EQS</Filter>
+    </ClCompile>
+    <Filter Include="Source\Shooter\Private\AI\Service">
+      <UniqueIdentifier>{716DCF0D-96A5-4FC6-9670-41DAB8F3A55E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Shooter\Private\AI\Service\STUChangeWeaponService.cpp">
+      <Filter>Source\Shooter\Private\AI\Service</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Shooter\Private\AI\Service\STUFindEnemyService.cpp">
+      <Filter>Source\Shooter\Private\AI\Service</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Shooter\Private\AI\Service\STUFireService.cpp">
+      <Filter>Source\Shooter\Private\AI\Service</Filter>
+    </ClCompile>
+    <Filter Include="Source\Shooter\Private\AI\Task">
+      <UniqueIdentifier>{CF1B8268-41F1-4D1C-B663-3C3E6E6C129E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Shooter\Private\AI\Task\STUNextLocationTask.cpp">
+      <Filter>Source\Shooter\Private\AI\Task</Filter>
+    </ClCompile>
+    <Filter Include="Source\Shooter\Private\Animations">
+      <UniqueIdentifier>{9D5E9071-716C-455E-92AE-8E54FCA2D6C6}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Shooter\Private\Animations\STUAnimNotify.cpp">
+      <Filter>Source\Shooter\Private\Animations</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Shooter\Private\Animations\STUEquipFinishedAnimNotify.cpp">
+      <Filter>Source\Shooter\Private\Animations</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Shooter\Private\Animations\STUReloadFinishedAnimNotify.cpp">
+      <Filter>Source\Shooter\Private\Animations</Filter>
+    </ClCompile>
+    <Filter Include="Source\Shooter\Private\Components">
+      <UniqueIdentifier>{ADBE2138-6ADD-41E5-A666-365514A5D9B8}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Shooter\Private\Components\STUAIPerceptionComponent.cpp">
+      <Filter>Source\Shooter\Private\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Shooter\Private\Components\STURespawnComponent.cpp">
+      <Filter>Source\Shooter\Private\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Shooter\Private\Components\STUWeaponFXComponent.cpp">
+      <Filter>Source\Shooter\Private\Components</Filter>
+    </ClCompile>
+    <Filter Include="Source\Shooter\Private\Dev">
+      <UniqueIdentifier>{3D7F386D-DA6A-40E0-9A71-5FDD205F1FAA}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Shooter\Private\Dev\STUDevDamageActor.cpp">
+      <Filter>Source\Shooter\Private\Dev</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Shooter\Private\Dev\STUFireDamageType.cpp">
+      <Filter>Source\Shooter\Private\Dev</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Shooter\Private\Dev\STUIceDamageType.cpp">
+      <Filter>Source\Shooter\Private\Dev</Filter>
+    </ClCompile>
+    <Filter Include="Source\Shooter\Private\Menu">
+      <UniqueIdentifier>{15E1C7B9-FCD9-474D-85F0-10A1C329C0F3}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Shooter\Private\Menu\STUMenuGameModeBase.cpp">
+      <Filter>Source\Shooter\Private\Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Shooter\Private\Menu\STUMenuPlayerController.cpp">
+      <Filter>Source\Shooter\Private\Menu</Filter>
+    </ClCompile>
+    <Filter Include="Source\Shooter\Private\Menu\UI">
+      <UniqueIdentifier>{D1E37701-322B-4CCD-85B2-6995DD021F0D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Shooter\Private\Menu\UI\STULevelItemWidget.cpp">
+      <Filter>Source\Shooter\Private\Menu\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Shooter\Private\Menu\UI\STUMenuHUD.cpp">
+      <Filter>Source\Shooter\Private\Menu\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Shooter\Private\Menu\UI\STUMenuWidget.cpp">
+      <Filter>Source\Shooter\Private\Menu\UI</Filter>
+    </ClCompile>
+    <Filter Include="Source\Shooter\Private\Pickups">
+      <UniqueIdentifier>{510496CD-1D54-49B2-B98D-23B06B84CA6E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Shooter\Private\Pickups\STUAmmoPickup.cpp">
+      <Filter>Source\Shooter\Private\Pickups</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Shooter\Private\Pickups\STUBasePickup.cpp">
+      <Filter>Source\Shooter\Private\Pickups</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Shooter\Private\Pickups\STUHealthPickup.cpp">
+      <Filter>Source\Shooter\Private\Pickups</Filter>
+    </ClCompile>
+    <Filter Include="Source\Shooter\Private\Player">
+      <UniqueIdentifier>{590E813A-153C-42F9-A9AF-DFEA5B989FFB}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Shooter\Private\Player\STUBaseCharacter.cpp">
+      <Filter>Source\Shooter\Private\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Shooter\Private\Player\STUPlayerCharacter.cpp">
+      <Filter>Source\Shooter\Private\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Shooter\Private\Player\STUPlayerController.cpp">
+      <Filter>Source\Shooter\Private\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Shooter\Private\Player\STUPlayerState.cpp">
+      <Filter>Source\Shooter\Private\Player</Filter>
+    </ClCompile>
+    <Filter Include="Source\Shooter\Private\Sound">
+      <UniqueIdentifier>{58EA5AB4-A434-479A-9C04-2787CDA84117}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Shooter\Private\Sound\STUSoundFuncLib.cpp">
+      <Filter>Source\Shooter\Private\Sound</Filter>
+    </ClCompile>
+    <Filter Include="Source\Shooter\Private\UI">
+      <UniqueIdentifier>{5E7BF6FE-E64C-4AC2-ADD9-25376CB38FC7}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Shooter\Private\UI\STUBaseWidget.cpp">
+      <Filter>Source\Shooter\Private\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Shooter\Private\UI\STUGameDataWidget.cpp">
+      <Filter>Source\Shooter\Private\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Shooter\Private\UI\STUGameHUD.cpp">
+      <Filter>Source\Shooter\Private\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Shooter\Private\UI\STUGameOverWidget.cpp">
+      <Filter>Source\Shooter\Private\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Shooter\Private\UI\STUGoToWidget.cpp">
+      <Filter>Source\Shooter\Private\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Shooter\Private\UI\STUHealthBarWidget.cpp">
+      <Filter>Source\Shooter\Private\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Shooter\Private\UI\STUPauseWidget.cpp">
+      <Filter>Source\Shooter\Private\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Shooter\Private\UI\STUPlayerStatRowWidget.cpp">
+      <Filter>Source\Shooter\Private\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Shooter\Private\UI\STUPlayerWidget.cpp">
+      <Filter>Source\Shooter\Private\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Shooter\Private\UI\STUSpectatorWidget.cpp">
+      <Filter>Source\Shooter\Private\UI</Filter>
+    </ClCompile>
+    <Filter Include="Source\Shooter\Public">
+      <UniqueIdentifier>{3E13DC5D-6B58-4552-BC1C-6DB30B06A385}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Shooter\Public\STUBaseWeapon.h">
+      <Filter>Source\Shooter\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Shooter\Public\STUCharacterMovementComponent.h">
+      <Filter>Source\Shooter\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Shooter\Public\STUCoreTypes.h">
+      <Filter>Source\Shooter\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Shooter\Public\STUGameInstance.h">
+      <Filter>Source\Shooter\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Shooter\Public\STUHealthComponent.h">
+      <Filter>Source\Shooter\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Shooter\Public\STULauncherWeapon.h">
+      <Filter>Source\Shooter\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Shooter\Public\STUProjectile.h">
+      <Filter>Source\Shooter\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Shooter\Public\STURiffleWeapon.h">
+      <Filter>Source\Shooter\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Shooter\Public\STUUtils.h">
+      <Filter>Source\Shooter\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Shooter\Public\STUWeaponComponent.h">
+      <Filter>Source\Shooter\Public</Filter>
+    </ClInclude>
+    <Filter Include="Source\Shooter\Public\AI">
+      <UniqueIdentifier>{98519682-D40B-4EE3-A274-D03515EB9D0D}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Shooter\Public\AI\STUAICharacter.h">
+      <Filter>Source\Shooter\Public\AI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Shooter\Public\AI\STUAIController.h">
+      <Filter>Source\Shooter\Public\AI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Shooter\Public\AI\STUAIWeaponComponent.h">
+      <Filter>Source\Shooter\Public\AI</Filter>
+    </ClInclude>
+    <Filter Include="Source\Shooter\Public\AI\Decorators">
+      <UniqueIdentifier>{C736B75F-EA40-4B92-B662-9D376A892AAC}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Shooter\Public\AI\Decorators\STUHealthPercentDecorator.h">
+      <Filter>Source\Shooter\Public\AI\Decorators</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Shooter\Public\AI\Decorators\STUNeedAmmoDecorator.h">
+      <Filter>Source\Shooter\Public\AI\Decorators</Filter>
+    </ClInclude>
+    <Filter Include="Source\Shooter\Public\AI\EQS">
+      <UniqueIdentifier>{E752E46B-5565-4147-A050-160889C497D8}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Shooter\Public\AI\EQS\EnvQueryTest_PickupCouldBeTaken.h">
+      <Filter>Source\Shooter\Public\AI\EQS</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Shooter\Public\AI\EQS\STUEnemyEnvQueryContext.h">
+      <Filter>Source\Shooter\Public\AI\EQS</Filter>
+    </ClInclude>
+    <Filter Include="Source\Shooter\Public\AI\Service">
+      <UniqueIdentifier>{11176224-5AD9-4F7B-9AF9-05D4A07E2485}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Shooter\Public\AI\Service\STUChangeWeaponService.h">
+      <Filter>Source\Shooter\Public\AI\Service</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Shooter\Public\AI\Service\STUFindEnemyService.h">
+      <Filter>Source\Shooter\Public\AI\Service</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Shooter\Public\AI\Service\STUFireService.h">
+      <Filter>Source\Shooter\Public\AI\Service</Filter>
+    </ClInclude>
+    <Filter Include="Source\Shooter\Public\AI\Task">
+      <UniqueIdentifier>{D30F0849-CC54-4E84-97FE-5679E9C588EA}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Shooter\Public\AI\Task\STUNextLocationTask.h">
+      <Filter>Source\Shooter\Public\AI\Task</Filter>
+    </ClInclude>
+    <Filter Include="Source\Shooter\Public\Animations">
+      <UniqueIdentifier>{AF6D40B9-2BB1-411A-99D2-2C43C6E3211F}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Shooter\Public\Animations\AnimUtils.h">
+      <Filter>Source\Shooter\Public\Animations</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Shooter\Public\Animations\STUAnimNotify.h">
+      <Filter>Source\Shooter\Public\Animations</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Shooter\Public\Animations\STUEquipFinishedAnimNotify.h">
+      <Filter>Source\Shooter\Public\Animations</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Shooter\Public\Animations\STUReloadFinishedAnimNotify.h">
+      <Filter>Source\Shooter\Public\Animations</Filter>
+    </ClInclude>
+    <Filter Include="Source\Shooter\Public\Components">
+      <UniqueIdentifier>{49E843E2-BB90-428E-A832-53D1A1118A17}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Shooter\Public\Components\STUAIPerceptionComponent.h">
+      <Filter>Source\Shooter\Public\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Shooter\Public\Components\STURespawnComponent.h">
+      <Filter>Source\Shooter\Public\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Shooter\Public\Components\STUWeaponFXComponent.h">
+      <Filter>Source\Shooter\Public\Components</Filter>
+    </ClInclude>
+    <Filter Include="Source\Shooter\Public\Dev">
+      <UniqueIdentifier>{8A6EA4B2-84C0-4BCF-85F7-419FD0D97591}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Shooter\Public\Dev\STUDevDamageActor.h">
+      <Filter>Source\Shooter\Public\Dev</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Shooter\Public\Dev\STUFireDamageType.h">
+      <Filter>Source\Shooter\Public\Dev</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Shooter\Public\Dev\STUIceDamageType.h">
+      <Filter>Source\Shooter\Public\Dev</Filter>
+    </ClInclude>
+    <Filter Include="Source\Shooter\Public\Menu">
+      <UniqueIdentifier>{C97F7AAE-04A8-4EA9-A66D-89770194118E}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Shooter\Public\Menu\STUMenuGameModeBase.h">
+      <Filter>Source\Shooter\Public\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Shooter\Public\Menu\STUMenuPlayerController.h">
+      <Filter>Source\Shooter\Public\Menu</Filter>
+    </ClInclude>
+    <Filter Include="Source\Shooter\Public\Menu\UI">
+      <UniqueIdentifier>{8CE93837-8760-478B-8E61-2C93EBF2C961}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Shooter\Public\Menu\UI\STULevelItemWidget.h">
+      <Filter>Source\Shooter\Public\Menu\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Shooter\Public\Menu\UI\STUMenuHUD.h">
+      <Filter>Source\Shooter\Public\Menu\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Shooter\Public\Menu\UI\STUMenuWidget.h">
+      <Filter>Source\Shooter\Public\Menu\UI</Filter>
+    </ClInclude>
+    <Filter Include="Source\Shooter\Public\Pickups">
+      <UniqueIdentifier>{136AB1B4-1FF8-4C8D-B487-64B72FEA05BA}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Shooter\Public\Pickups\STUAmmoPickup.h">
+      <Filter>Source\Shooter\Public\Pickups</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Shooter\Public\Pickups\STUBasePickup.h">
+      <Filter>Source\Shooter\Public\Pickups</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Shooter\Public\Pickups\STUHealthPickup.h">
+      <Filter>Source\Shooter\Public\Pickups</Filter>
+    </ClInclude>
+    <Filter Include="Source\Shooter\Public\Player">
+      <UniqueIdentifier>{7F2E01FC-A213-4172-9BEC-C3C648A48C29}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Shooter\Public\Player\STUBaseCharacter.h">
+      <Filter>Source\Shooter\Public\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Shooter\Public\Player\STUPlayerCharacter.h">
+      <Filter>Source\Shooter\Public\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Shooter\Public\Player\STUPlayerController.h">
+      <Filter>Source\Shooter\Public\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Shooter\Public\Player\STUPlayerState.h">
+      <Filter>Source\Shooter\Public\Player</Filter>
+    </ClInclude>
+    <Filter Include="Source\Shooter\Public\Sound">
+      <UniqueIdentifier>{DA99CD50-22BF-45FD-B492-62CFD44AF258}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Shooter\Public\Sound\STUSoundFuncLib.h">
+      <Filter>Source\Shooter\Public\Sound</Filter>
+    </ClInclude>
+    <Filter Include="Source\Shooter\Public\UI">
+      <UniqueIdentifier>{32AE81C8-8647-4C85-87AB-2723E06C9B78}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Shooter\Public\UI\STUBaseWidget.h">
+      <Filter>Source\Shooter\Public\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Shooter\Public\UI\STUGameDataWidget.h">
+      <Filter>Source\Shooter\Public\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Shooter\Public\UI\STUGameHUD.h">
+      <Filter>Source\Shooter\Public\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Shooter\Public\UI\STUGameOverWidget.h">
+      <Filter>Source\Shooter\Public\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Shooter\Public\UI\STUGoToWidget.h">
+      <Filter>Source\Shooter\Public\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Shooter\Public\UI\STUHealthBarWidget.h">
+      <Filter>Source\Shooter\Public\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Shooter\Public\UI\STUPauseWidget.h">
+      <Filter>Source\Shooter\Public\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Shooter\Public\UI\STUPlayerStatRowWidget.h">
+      <Filter>Source\Shooter\Public\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Shooter\Public\UI\STUPlayerWidget.h">
+      <Filter>Source\Shooter\Public\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Shooter\Public\UI\STUSpectatorWidget.h">
+      <Filter>Source\Shooter\Public\UI</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
